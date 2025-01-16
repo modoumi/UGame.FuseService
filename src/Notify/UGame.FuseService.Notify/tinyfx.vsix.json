@@ -1,0 +1,17 @@
+{
+  "SqlSugar": {
+    "DefaultElement": "ing",
+    "Elements": [
+      {
+        "Name": "ing",
+        "DatabaseType": 0,
+        "ConnectionString": "server=192.168.1.120;port=3306;database=ing;user id=root;password=root;sslmode=Disabled;allowuservariables=True",
+        "OutputPath": "Repositories",
+        "Namespace": "SComms.Notify.API.Repositories.DAL.ing",
+        "UseSubPath": true,
+        "UseTinyFx": true,
+        "IsDeletePartial": true
+      }
+    ]
+  }
+}

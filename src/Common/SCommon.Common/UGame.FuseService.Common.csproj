@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="AiUo.AspNet" Version="1.0.0"/>
+        <PackageReference Include="AiUo.Data.MySql" Version="1.0.0"/>
+    </ItemGroup>
+
+</Project>

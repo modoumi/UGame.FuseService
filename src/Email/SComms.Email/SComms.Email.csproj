@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<DocumentationFile></DocumentationFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="TinyFx.AspNet" Version="3.10.22" />
+		<PackageReference Include="TinyFx.Data.SqlSugar" Version="3.10.22" />
+		<PackageReference Include="Xxyy.Common" Version="1.4.13" />
+		<PackageReference Include="Xxyy.MQ" Version="1.4.29" />
+	</ItemGroup>
+</Project>
